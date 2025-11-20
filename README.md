@@ -21,4 +21,4 @@
 
 ## PART B — Practical Task (ScreenshotRequired)
 
-![screenshort]()
+![screenshort](https://raw.githubusercontent.com/M-Aamash/AIDD-30-days-challenge-Task-3/refs/heads/main/WhatsApp%20Image%202025-11-20%20at%2011.32.53%20PM.jpeg)
